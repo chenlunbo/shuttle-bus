@@ -1,0 +1,6 @@
+.multiselectable { display:block; overflow: hidden; width: 500px;  }
+.multiselectable select, .multiselectable div { width: 200px; float:left; }
+.multiselectable div * { display: block; margin: 0 auto; }
+.multiselectable div { display: inline; }
+.multiselectable .m-selectable-controls {margin-top: 3em; width:100px}
+.multiselectable .m-selectable-controls button { margin-top: 1em;}
